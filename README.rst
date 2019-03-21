@@ -61,4 +61,4 @@ Either way, after installing, you may access the View resource with
 
 .. code:: python
 
-    from seequent.resources.manifests import View
+    from lfview.resources.manifests import View
