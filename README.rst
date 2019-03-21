@@ -41,7 +41,7 @@ You may install this library using
 
 .. code::
 
-    pip install seequent-resources-manifests
+    pip install lfview-resources-manifests
 
 or from `Github <https://github.com/seequent/lfview-resources-manifests>`_
 
